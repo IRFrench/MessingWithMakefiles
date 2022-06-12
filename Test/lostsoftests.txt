@@ -1,0 +1,5 @@
+Boo!
+
+Did I scare you?
+
+Nothing is scarier than having to write tests.
